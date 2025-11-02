@@ -9,7 +9,7 @@ spring:
     username: root
     password: 123
   redis:
-    host: 192.168.140.138
+    host: 192.168.140.140
     port: 6379
     password: 123
     lettuce:
